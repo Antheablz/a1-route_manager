@@ -3,7 +3,7 @@
 """
 Created on Wed Jan 26 09:03:23 2023
 
-@author: rivera
+@author: TA (hidden for privacy)
 """
 from sys import argv as args
 from os.path import isfile

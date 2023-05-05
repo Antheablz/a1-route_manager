@@ -1,4 +1,4 @@
-# Tests for `SENG 265`, Assignment #1
+# Tests for 'Software Engineering Course', Assignment #1
 
 * Test 1
     * Input: `airline-routes-data.csv`
